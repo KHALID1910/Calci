@@ -34,4 +34,4 @@ Use the "C" button to clear the input.
 
 **Demo**
 
-You can view a live demo of the calculator here (insert link to live demo if available).
+You can view a live demo of the calculator here (https://khalid1910.github.io/Calci/).
